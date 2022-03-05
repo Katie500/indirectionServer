@@ -1,5 +1,4 @@
 /* Katherine Knauss
-UCID: 30087243
 CPSC 441 Assignment 2
 Here's an indirection server that connects with a client and three different
 microservers. It works lovely.
