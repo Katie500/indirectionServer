@@ -1,6 +1,5 @@
 /*
 Katherine Knauss
-UCID: 30087243
 Prof: Carey Williamson
 CPSC 441
 
